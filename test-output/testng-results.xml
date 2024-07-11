@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicked on Contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Contact look up image]]>
+    </line>
+    <line>
+      <![CDATA[Conatct with multiple prefix and lead source created]]>
+    </line>
+    <line>
+      <![CDATA[Contact verified]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Contact look up image]]>
+    </line>
+    <line>
+      <![CDATA[Conatct with multiple prefix and lead source created]]>
+    </line>
+    <line>
+      <![CDATA[Contact verified]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Contact look up image]]>
+    </line>
+    <line>
+      <![CDATA[Conatct with multiple prefix and lead source created]]>
+    </line>
+    <line>
+      <![CDATA[Contact verified]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Contact look up image]]>
+    </line>
+    <line>
+      <![CDATA[Conatct with multiple prefix and lead source created]]>
+    </line>
+    <line>
+      <![CDATA[Contact verified]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contact Link]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create Contact look up image]]>
+    </line>
+    <line>
+      <![CDATA[Conatct with multiple prefix and lead source created]]>
+    </line>
+    <line>
+      <![CDATA[Contact verified]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-10T14:31:44 IST" name="Default suite" finished-at="2024-07-10T14:32:45 IST" duration-ms="60660">
+    <groups>
+      <group name="SmokeSuite">
+        <method signature="CreateNewContactsWithMultiplePrifixAndLeadSourceTest.createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" name="createMultiplePrifixAndLeadSourceOnly" class="contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest"/>
+      </group> <!-- SmokeSuite -->
+    </groups>
+    <test started-at="2024-07-10T14:31:44 IST" name="Default test" finished-at="2024-07-10T14:32:45 IST" duration-ms="60660">
+      <class name="contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest">
+        <test-method is-config="true" signature="beforeSuiteConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:31:43 IST" name="beforeSuiteConfiguration" finished-at="2024-07-10T14:31:44 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuiteConfiguration -->
+        <test-method is-config="true" signature="beforeClassConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:31:44 IST" name="beforeClassConfiguration" finished-at="2024-07-10T14:31:47 IST" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:31:48 IST" name="beforeMethodConfiguration" finished-at="2024-07-10T14:31:50 IST" duration-ms="2046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:31:50 IST" name="createMultiplePrifixAndLeadSourceOnly" data-provider="getData" finished-at="2024-07-10T14:31:58 IST" duration-ms="7567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Cold Call]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Contact look up image]]>
+            </line>
+            <line>
+              <![CDATA[Conatct with multiple prefix and lead source created]]>
+            </line>
+            <line>
+              <![CDATA[Contact verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultiplePrifixAndLeadSourceOnly -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:31:58 IST" name="afterMethodConfiguration" finished-at="2024-07-10T14:32:00 IST" duration-ms="2302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:00 IST" name="beforeMethodConfiguration" finished-at="2024-07-10T14:32:02 IST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:02 IST" name="createMultiplePrifixAndLeadSourceOnly" data-provider="getData" finished-at="2024-07-10T14:32:09 IST" duration-ms="7316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rock]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Existing Customer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ms.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Contact look up image]]>
+            </line>
+            <line>
+              <![CDATA[Conatct with multiple prefix and lead source created]]>
+            </line>
+            <line>
+              <![CDATA[Contact verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultiplePrifixAndLeadSourceOnly -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:09 IST" name="afterMethodConfiguration" finished-at="2024-07-10T14:32:11 IST" duration-ms="1979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:11 IST" name="beforeMethodConfiguration" finished-at="2024-07-10T14:32:13 IST" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:13 IST" name="createMultiplePrifixAndLeadSourceOnly" data-provider="getData" finished-at="2024-07-10T14:32:20 IST" duration-ms="7553" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Godzilla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Direct Mail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mrs.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Contact look up image]]>
+            </line>
+            <line>
+              <![CDATA[Conatct with multiple prefix and lead source created]]>
+            </line>
+            <line>
+              <![CDATA[Contact verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultiplePrifixAndLeadSourceOnly -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:20 IST" name="afterMethodConfiguration" finished-at="2024-07-10T14:32:22 IST" duration-ms="1910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:22 IST" name="beforeMethodConfiguration" finished-at="2024-07-10T14:32:24 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:24 IST" name="createMultiplePrifixAndLeadSourceOnly" data-provider="getData" finished-at="2024-07-10T14:32:31 IST" duration-ms="7603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kong]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Word of mouth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dr.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Contact look up image]]>
+            </line>
+            <line>
+              <![CDATA[Conatct with multiple prefix and lead source created]]>
+            </line>
+            <line>
+              <![CDATA[Contact verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultiplePrifixAndLeadSourceOnly -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:31 IST" name="afterMethodConfiguration" finished-at="2024-07-10T14:32:33 IST" duration-ms="1993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="beforeMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:33 IST" name="beforeMethodConfiguration" finished-at="2024-07-10T14:32:35 IST" duration-ms="1921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodConfiguration -->
+        <test-method signature="createMultiplePrifixAndLeadSourceOnly(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:35 IST" name="createMultiplePrifixAndLeadSourceOnly" data-provider="getData" finished-at="2024-07-10T14:32:42 IST" duration-ms="6721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cena]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Trade Show]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Prof.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on Contact Link]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create Contact look up image]]>
+            </line>
+            <line>
+              <![CDATA[Conatct with multiple prefix and lead source created]]>
+            </line>
+            <line>
+              <![CDATA[Contact verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createMultiplePrifixAndLeadSourceOnly -->
+        <test-method is-config="true" signature="afterMethodConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:42 IST" name="afterMethodConfiguration" finished-at="2024-07-10T14:32:44 IST" duration-ms="2034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodConfiguration -->
+        <test-method is-config="true" signature="afterClassConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:44 IST" name="afterClassConfiguration" finished-at="2024-07-10T14:32:45 IST" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClassConfiguration -->
+        <test-method is-config="true" signature="afterSuiteConfiguration()[pri:0, instance:contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest@10683d9d]" started-at="2024-07-10T14:32:45 IST" name="afterSuiteConfiguration" finished-at="2024-07-10T14:32:45 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteConfiguration -->
+      </class> <!-- contactsTests.CreateNewContactsWithMultiplePrifixAndLeadSourceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
